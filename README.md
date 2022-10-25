@@ -7,6 +7,11 @@ Heavily inspired by the [pikatea](https://www.pikatea.com)
 
 - [ ] Pro Micro
 - [ ] Wires
+- [ ] Diodes `1N4148`
 - [ ] Soldering iron
 - [ ] Solder
 - [ ] Wire cutters
+- [ ] Plate
+- [ ] Switches
+- [ ] Keycaps
+
