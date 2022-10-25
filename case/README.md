@@ -5,4 +5,4 @@ The plate SVG was created using [ai03's kbplate generator](https://kbplate.ai03.
 
 # Case
 
-Will be 3d Printed.
+Will be 3d Printed using [this design](https://www.thingiverse.com/thing:4506243).
